@@ -1,3 +1,7 @@
+Fork Motivation:
+
+Want to isolate the server code, eliminate all dependencies of the client, and build the scsynth server only.
+
 Welcome to SuperCollider 3!
 ***************************
 
